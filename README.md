@@ -1,5 +1,5 @@
 # Hi there!
-I'm [Mr-Anonymous](https://mr-anonymous75.github.io). I'm just your ordinary definitely-not-Indian - okay, Indian - C# and Scratch coder, and Inkscape graphic designer.
+I'm Mr-Anonymous. I'm just your ordinary C# coder and Inkscape graphic designer.
 
 ## Coding
 
