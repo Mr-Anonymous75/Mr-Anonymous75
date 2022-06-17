@@ -3,10 +3,7 @@ I'm [Mr-Anonymous](https://mr-anonymous75.github.io). I'm just your ordinary def
 
 ## Coding
 
-I code mostly with C#. I also use [Scratch](https://scratch.mit.edu/users/QuexizT), mostly because of the community. 
-
-I'm currently learning Java. I'm procrastinating on learning JS and TypeScript, and I have plans to eventually learn C++.
-I know the basics of HTML as well, though I'm working on learning more of it.
+I code mostly with C# right now, and I'm working on learning both C++ and web development.
 
 I'm addicted to stack overflow.<br>
 <a href="https://stackoverflow.com/users/13494707/the-anonymous"><img src="https://stackoverflow.com/users/flair/13494707.png?theme=dark" width="208" height="58" alt="My Stack Overflow Flair™" title="The-Anonymous's Flair™ at Stack Overflow, Q&amp;A for programmers"></a>
